@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IRLWeatherContext-Web.config Connection String" description="IRLWeatherContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; &#xD;&#xA;    Initial Catalog=IRLWeatherContext-20160303004813; Integrated Security=True; MultipleActiveResultSets=True; &#xD;&#xA;    AttachDbFilename=|DataDirectory|IRLWeatherContext-20160303004813.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\Desktop\\EAD-Repeat\ CA\\IRLWeather\\IRLWeather\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='IRLWeatherContext']/@connectionString" />
+  </parameter>
+  <parameter name="IRLWeatherContext_DatabasePublish-Web.config Connection String" description="IRLWeatherContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="IRLWeatherContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\User\\Desktop\\EAD-Repeat\ CA\\IRLWeather\\IRLWeather\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='IRLWeatherContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

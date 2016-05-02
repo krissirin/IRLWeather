@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Weather>
+  <City>Belfast</City>
+  <Id>1</Id>
+  <MaxTemp>10</MaxTemp>
+  <MinTemp>1</MinTemp>
+  <WindDirection>East</WindDirection>
+  <WindSpeed>5</WindSpeed>
+  <todaysCondition>Cloudy</todaysCondition>
+  <tomorrowsCondition>Rain</tomorrowsCondition>
+
+  <City>Cork</City>
+  <Id>2</Id>
+  <MaxTemp>13</MaxTemp>
+  <MinTemp>2</MinTemp>
+  <WindDirection>North</WindDirection>
+  <WindSpeed>8</WindSpeed>
+  <todaysCondition>Drizzle</todaysCondition>
+  <tomorrowsCondition>Overcast</tomorrowsCondition>
+
+  <City>Donnegal</City>
+  <Id>3</Id>
+  <MaxTemp>7</MaxTemp>
+  <MinTemp>-1</MinTemp>
+  <WindDirection>Northwest</WindDirection>
+  <WindSpeed>9</WindSpeed>
+  <todaysCondition>Fog</todaysCondition>
+  <tomorrowsCondition>Snow</tomorrowsCondition>
+
+  <City>Dublin</City>
+  <Id>4</Id>
+  <MaxTemp>4</MaxTemp>
+  <MinTemp>0</MinTemp>
+  <WindDirection>West</WindDirection>
+  <WindSpeed>7</WindSpeed>
+  <todaysCondition>Snow</todaysCondition>
+  <tomorrowsCondition>Fog</tomorrowsCondition>
+
+  <City>Galway</City>
+  <Id>5</Id>
+  <MaxTemp>5</MaxTemp>
+  <MinTemp>-2</MinTemp>
+  <WindDirection>Southeast</WindDirection>
+  <WindSpeed>10</WindSpeed>
+  <todaysCondition>Rain</todaysCondition>
+  <tomorrowsCondition>Drizzle</tomorrowsCondition>
+
+  <City>Limerick</City>
+  <Id>6</Id>
+  <MaxTemp>10</MaxTemp>
+  <MinTemp>1</MinTemp>
+  <WindDirection>South</WindDirection>
+  <WindSpeed>6</WindSpeed>
+  <todaysCondition>Overcast</todaysCondition>
+  <tomorrowsCondition>Cloudy</tomorrowsCondition>
+
+  <City>Waterford</City>
+  <Id>7</Id>
+  <MaxTemp>11</MaxTemp>
+  <MinTemp>3</MinTemp>
+  <WindDirection>Northeast</WindDirection>
+  <WindSpeed>5</WindSpeed>
+  <todaysCondition>Sunny</todaysCondition>
+  <tomorrowsCondition>Cloudy</tomorrowsCondition>
+</Weather>

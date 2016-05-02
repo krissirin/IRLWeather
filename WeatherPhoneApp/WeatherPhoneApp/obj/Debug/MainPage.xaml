@@ -1,0 +1,45 @@
+﻿<Page
+    x:Class="WeatherPhoneApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WeatherPhoneApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <!--<Grid x:Name="ContentPanel" Background="Blue" Grid.Row="1" Margin="12,0,12,0">
+        <StackPanel Margin="20" Background="Black" >
+            <TextBlock Name="firstTextBlock" FontSize="30" Height="84" Margin="0,0,-0.167,0">IRL Weahter Forecast</TextBlock>
+
+        </StackPanel>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="140,86,0,0" VerticalAlignment="Top" Width="100"/>
+        <Button Height="72" Width="160" Content="Search" Margin="115,281,0,287" />
+    </Grid>-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="143" />
+            <RowDefinition Height="497"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="10,0,0,30">
+            <TextBlock TextWrapping="Wrap" Height="28">
+        		<Run Text="                  "/>
+        		<LineBreak/>
+        		<Run Foreground="#FFF7D119" Text="   "/>
+        		<Run Foreground="#FFF7D119" Text="EAD Project"/>
+            </TextBlock>
+            <TextBlock x:ConnectionId='2' TextWrapping="NoWrap" TextTrimming="CharacterEllipsis" Style="{StaticResource HeaderTextBlockStyle}" Foreground="#FFEADA53" Margin="10,0" Height="74" RenderTransformOrigin="0.519,0.732"                                              >
+            	<Run Foreground="#FFF3F1F6" Text="IRLWeather"/>
+            </TextBlock>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Image x:Name="image" HorizontalAlignment="Left" Height="111" Margin="145,10,0,0" VerticalAlignment="Top" Width="115" Source="Assets/WeatherLogo.png" Stretch="UniformToFill"/>
+            <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+                <Button x:ConnectionId='1' Height="72" Width="165" Content="Display Weathers" Margin="112,231,0,194"                      />
+                <TextBox InputScope="Default" x:Name="textBox" HorizontalAlignment="Left" Margin="112,180,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>
+

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-L1789A3J</Machine>
+    <WindowsUser>User</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2a535023-414a-4af5-851e-72cf212396bb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\bin\Debug\WeatherPhoneApp.exe">
+      <PackagePath>WeatherPhoneApp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\WeatherLogo.png">
+      <PackagePath>Assets\WeatherLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\bin\Debug\WeatherPhoneApp.xr.xml">
+      <PackagePath>WeatherPhoneApp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\User\Desktop\EAD-Repeat CA\WeatherPhoneApp\WeatherPhoneApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

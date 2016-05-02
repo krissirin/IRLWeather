@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\EAD-Repeat CA\IRLWeatherConsoleApplication - Tests\IRLWeatherConsoleApplication - Tests\bin\Debug\IRLWeatherConsoleApplication - Tests.exe.config
+C:\Users\User\Desktop\EAD-Repeat CA\IRLWeatherConsoleApplication - Tests\IRLWeatherConsoleApplication - Tests\obj\Debug\IRLWeatherConsoleApplication - Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\EAD-Repeat CA\IRLWeatherConsoleApplication - Tests\IRLWeatherConsoleApplication - Tests\bin\Debug\IRLWeatherConsoleApplication - Tests.exe
+C:\Users\User\Desktop\EAD-Repeat CA\IRLWeatherConsoleApplication - Tests\IRLWeatherConsoleApplication - Tests\bin\Debug\IRLWeatherConsoleApplication - Tests.pdb
+C:\Users\User\Desktop\EAD-Repeat CA\IRLWeatherConsoleApplication - Tests\IRLWeatherConsoleApplication - Tests\obj\Debug\IRLWeatherConsoleApplication - Tests.exe
+C:\Users\User\Desktop\EAD-Repeat CA\IRLWeatherConsoleApplication - Tests\IRLWeatherConsoleApplication - Tests\obj\Debug\IRLWeatherConsoleApplication - Tests.pdb
